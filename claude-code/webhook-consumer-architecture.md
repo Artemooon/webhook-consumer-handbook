@@ -2,13 +2,13 @@
 
 Use this guide when building, reviewing, or refactoring webhook consumers in this repository.
 
-Read [README.md](/Users/artem/coding/webhook-consumer-handbook/README.md) first. It defines the architecture and the design goals.
+Read [README.md](https://github.com/Artemooon/webhook-consumer-handbook/blob/main/README.md) first. It defines the architecture and the design goals.
 
 Use the code examples when you need stack-specific patterns:
 
-- [examples/python/django](/Users/artem/coding/webhook-consumer-handbook/examples/python/django)
-- [examples/java/spring](/Users/artem/coding/webhook-consumer-handbook/examples/java/spring)
-- [examples/go/net-http](/Users/artem/coding/webhook-consumer-handbook/examples/go/net-http)
+- [examples/python/django](https://github.com/Artemooon/webhook-consumer-handbook/tree/main/examples/python/django)
+- [examples/java/spring](https://github.com/Artemooon/webhook-consumer-handbook/tree/main/examples/java/spring)
+- [examples/go/net-http](https://github.com/Artemooon/webhook-consumer-handbook/tree/main/examples/go/net-http)
 
 ## What To Optimize For
 

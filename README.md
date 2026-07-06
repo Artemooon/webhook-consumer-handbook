@@ -206,4 +206,4 @@ claude plugin marketplace add Artemooon/webhook-consumer-handbook
 claude plugin install webhook-consumer-architecture@webhook-consumer-architecture
 ```
 
-More details are in [skills/README.md](/Users/artem/coding/webhook-consumer-handbook/skills/README.md).
+More details are in [skills/README.md](https://github.com/Artemooon/webhook-consumer-handbook/blob/main/skills/README.md).
