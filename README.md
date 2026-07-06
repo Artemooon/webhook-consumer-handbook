@@ -1,24 +1,21 @@
 # webhook-consumer-handbook
 Practical patterns for building production-ready webhook consumers.
 
-## Installable AI Skills
+## Index
 
-This repository also includes installable AI agent skills for webhook consumer work.
-
-### Codex
-
-```bash
-npx skills add Artemooon/webhook-consumer-handbook -a codex
-```
-
-### Claude Code
-
-```bash
-claude plugin marketplace add Artemooon/webhook-consumer-handbook
-claude plugin install webhook-consumer-architecture@webhook-consumer-architecture
-```
-
-More details are in [skills/README.md](/Users/artem/coding/webhook-consumer-handbook/skills/README.md).
+- [Introduction](#introduction)
+- [Design Goals](#design-goals)
+  - [Verifying Incoming Webhook Requests](#verifying-incoming-webhook-requests)
+  - [SSL/TLS Certificates](#ssltls-certificates)
+  - [Validating Webhook Payloads](#validating-webhook-payloads)
+  - [Reliable Processing](#reliable-processing)
+  - [Idempotent Webhook Consumer Execution](#idempotent-webhook-consumer-execution)
+  - [Consistent Application State](#consistent-application-state)
+  - [Recoverable Processing](#recoverable-processing)
+  - [Observable Processing](#observable-processing)
+  - [Provider-Agnostic Consumer Architecture](#provider-agnostic-consumer-architecture)
+  - [Implementation-Agnostic Guidance](#implementation-agnostic-guidance)
+- [Installable AI Skills](#installable-ai-skills)
 
 ## Introduction
 
@@ -191,3 +188,22 @@ Describe the system by what it does:
 Different teams will wire that flow differently. The guidance stays useful as long as those responsibilities are handled clearly and safely.
 
 That makes the handbook easier to reuse across stacks.
+
+## Installable AI Skills
+
+This repository also includes installable AI agent skills for webhook consumer work.
+
+### Codex
+
+```bash
+npx skills add Artemooon/webhook-consumer-handbook -a codex
+```
+
+### Claude Code
+
+```bash
+claude plugin marketplace add Artemooon/webhook-consumer-handbook
+claude plugin install webhook-consumer-architecture@webhook-consumer-architecture
+```
+
+More details are in [skills/README.md](/Users/artem/coding/webhook-consumer-handbook/skills/README.md).
