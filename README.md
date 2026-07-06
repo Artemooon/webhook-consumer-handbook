@@ -1,6 +1,25 @@
 # webhook-consumer-handbook
 Practical patterns for building production-ready webhook consumers.
 
+## Installable AI Skills
+
+This repository also includes installable AI agent skills for webhook consumer work.
+
+### Codex
+
+```bash
+npx skills add Artemooon/webhook-consumer-handbook -a codex
+```
+
+### Claude Code
+
+```bash
+claude plugin marketplace add Artemooon/webhook-consumer-handbook
+claude plugin install webhook-consumer-architecture@webhook-consumer-architecture
+```
+
+More details are in [skills/README.md](/Users/artem/coding/webhook-consumer-handbook/skills/README.md).
+
 ## Introduction
 
 There is an existing open source guideline [standard-webhooks](https://github.com/standard-webhooks/standard-webhooks), that describes a guideline for the webhook senders.

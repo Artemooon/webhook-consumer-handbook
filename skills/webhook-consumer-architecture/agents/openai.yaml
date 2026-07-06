@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webhook Consumer Architecture"
+  short_description: "Build and review production webhook consumers"
+  default_prompt: "Use $webhook-consumer-architecture to design or improve this webhook consumer."

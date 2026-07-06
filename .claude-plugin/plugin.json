@@ -1,0 +1,9 @@
+{
+  "name": "webhook-consumer-architecture",
+  "description": "Webhook consumer architecture guide for building secure, reliable, idempotent, recoverable, and observable webhook consumers.",
+  "author": {
+    "name": "Artemooon",
+    "url": "https://github.com/Artemooon"
+  },
+  "hooks": {}
+}

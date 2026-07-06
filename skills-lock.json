@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "webhook-consumer-architecture": {
+      "source": "Artemooon/webhook-consumer-handbook",
+      "sourceType": "github",
+      "skillPath": "skills/webhook-consumer-architecture/SKILL.md",
+      "computedHash": "012ae00593c63919ab97cd384d350e9fb9b7435c9793932475a559d10daf5eff"
+    }
+  }
+}

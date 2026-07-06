@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "webhook-consumer-architecture",
+  "description": "Webhook consumer architecture guide for Claude Code.",
+  "owner": {
+    "name": "Artemooon",
+    "url": "https://github.com/Artemooon"
+  },
+  "plugins": [
+    {
+      "name": "webhook-consumer-architecture",
+      "description": "Guide for designing and reviewing production-ready webhook consumers.",
+      "source": "./",
+      "category": "developer-tools"
+    }
+  ]
+}
