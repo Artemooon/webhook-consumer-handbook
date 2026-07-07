@@ -7,13 +7,13 @@ description: Design, review, and implement production-ready webhook consumers us
 
 Use this skill when working on webhook consumers that should follow the patterns documented in this repository.
 
-Start with [README.md](../../README.md). Use it as the source of truth for the design goals and the processing model.
+Start with [README.md](./README.md). Use it as the source of truth for the design goals and the processing model.
 
 Use the examples folder when the user wants concrete code patterns:
 
-- [examples/python/django](../../examples/python/django)
-- [examples/java/spring](../../examples/java/spring)
-- [examples/go/net-http](../../examples/go/net-http)
+- [examples/python/django](./examples/python/django/README.md)
+- [examples/java/spring](./examples/java/spring/README.md)
+- [examples/go/net-http](./examples/go/net-http/README.md)
 
 ## Core Model
 
